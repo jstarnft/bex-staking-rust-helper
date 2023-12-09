@@ -152,6 +152,7 @@ name = "bex-staking-rust-helper"
 version = "0.1.0"
 dependencies = [
  "ethers",
+ "hex",
 ]
 
 [[package]]
